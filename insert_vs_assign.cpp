@@ -1,3 +1,5 @@
+// for execution on quick-bench.com
+
 constexpr size_t container_size = 50;
 
 static void insert(benchmark::State& state) {
